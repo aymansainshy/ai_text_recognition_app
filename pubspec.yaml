@@ -15,6 +15,9 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   google_fonts: ^5.1.0
+  google_mlkit_text_recognition: ^0.8.1
+  image_picker: ^0.8.4+9
+  animated_text_kit: ^4.2.2
 
 dev_dependencies:
   flutter_test:
